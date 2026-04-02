@@ -43,7 +43,7 @@
   <text x="60" y="130" font-family="'Courier New', monospace" font-size="26" fill="#e8e8e8" font-weight="400">Hi There! &#128075;</text>
   <text x="60" y="168" font-family="'Courier New', monospace" font-size="26" fill="#e8e8e8" font-weight="400">I'M </text>
   <text x="111" y="168" font-family="'Courier New', monospace" font-size="26" fill="#c778dd" font-weight="700">ABHAY SHARMA</text>
-  <text x="60" y="220" font-family="'Courier New', monospace" font-size="18" fill="#c778dd">Software Deve</text>
+  <text x="60" y="220" font-family="'Courier New', monospace" font-size="18" fill="#c778dd">Software Developer</text>
   <rect x="228" y="202" width="10" height="20" fill="#c778dd" rx="1">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
