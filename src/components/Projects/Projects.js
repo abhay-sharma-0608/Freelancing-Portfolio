@@ -36,7 +36,7 @@ function Projects() {
           </Col>
 
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={onepager}
               isBlog={false}
@@ -45,7 +45,7 @@ function Projects() {
               ghLink="https://github.com/abhay-sharma-0608/One-Pager"
               demoLink="https://one-pager-xi.vercel.app/"
             />
-          </Col>
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard
