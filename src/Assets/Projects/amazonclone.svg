@@ -1,0 +1,210 @@
+<svg width="680" height="500" viewBox="0 0 680 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <clipPath id="sc2">
+    <rect x="104" y="34" width="472" height="314" rx="4"/>
+  </clipPath>
+</defs>
+
+<!-- Laptop lid outer -->
+<rect x="0" y="0" width="680" height="500" fill="#0a0c18"/>
+<rect x="92" y="24" width="496" height="332" rx="13" fill="#111420" stroke="#1e2235" stroke-width="1"/>
+<rect x="98" y="28" width="484" height="326" rx="10" fill="#0a0c18"/>
+<circle cx="340" cy="33" r="2.5" fill="#1a1d2e"/>
+
+<g clip-path="url(#sc2)">
+  <rect x="104" y="34" width="472" height="314" fill="#0d0f1c"/>
+
+  <!-- NAV BAR -->
+  <rect x="104" y="34" width="472" height="28" fill="#131921"/>
+  <rect x="112" y="40" width="42" height="16" rx="2" fill="#ff9900"/>
+  <text x="133" y="52" font-family="monospace" font-size="8" font-weight="700" fill="#131921" text-anchor="middle">ShopX</text>
+  <rect x="160" y="40" width="218" height="16" rx="2" fill="#ffffff"/>
+  <text x="170" y="52" font-family="monospace" font-size="6.5" fill="#888888">Search products, brands and more...</text>
+  <rect x="376" y="40" width="18" height="16" rx="0" fill="#ff9900"/>
+  <text x="385" y="52" font-family="monospace" font-size="8" fill="#131921" text-anchor="middle">Q</text>
+  <text x="402" y="50" font-family="monospace" font-size="6" fill="#cccccc">Account</text>
+  <text x="438" y="50" font-family="monospace" font-size="6" fill="#cccccc">Orders</text>
+  <rect x="467" y="39" width="22" height="16" rx="2" fill="#232f3e"/>
+  <rect x="471" y="43" width="14" height="8" rx="1" fill="none" stroke="#ff9900" stroke-width="1"/>
+  <line x1="474" y1="43" x2="474" y2="41" stroke="#ff9900" stroke-width="1"/>
+  <line x1="481" y1="43" x2="481" y2="41" stroke="#ff9900" stroke-width="1"/>
+  <circle cx="483" cy="40" r="3" fill="#ff9900"/>
+  <text x="483" y="42" font-family="monospace" font-size="5" fill="#131921" text-anchor="middle" font-weight="700">3</text>
+
+  <!-- CATEGORY BAR -->
+  <rect x="104" y="62" width="472" height="14" fill="#232f3e"/>
+  <text x="112" y="72" font-family="monospace" font-size="6" fill="#cccccc">All</text>
+  <text x="128" y="72" font-family="monospace" font-size="6" fill="#cccccc">Electronics</text>
+  <text x="176" y="72" font-family="monospace" font-size="6" fill="#cccccc">Fashion</text>
+  <text x="212" y="72" font-family="monospace" font-size="6" fill="#cccccc">Home</text>
+  <text x="238" y="72" font-family="monospace" font-size="6" fill="#cccccc">Books</text>
+  <text x="264" y="72" font-family="monospace" font-size="6" fill="#cccccc">Sports</text>
+  <text x="292" y="72" font-family="monospace" font-size="6" fill="#ff9900">Deals</text>
+  <text x="316" y="72" font-family="monospace" font-size="6" fill="#cccccc">Prime</text>
+
+  <!-- Diamond top accent -->
+  <polygon points="196,86 202,92 196,98 190,92" fill="none" stroke="#ff9900" stroke-width="1.5"/>
+
+  <!-- HERO HEADING -->
+  <text x="114" y="116" font-family="monospace" font-size="14" font-weight="700" fill="#ff9900" letter-spacing="1">SHOP EVERYTHING.</text>
+  <text x="114" y="133" font-family="monospace" font-size="14" font-weight="700" fill="#ffffff" letter-spacing="1">DELIVERED FAST.</text>
+
+  <text x="114" y="149" font-family="monospace" font-size="6.5" fill="#8892aa">Millions of products. Free delivery on</text>
+  <text x="114" y="159" font-family="monospace" font-size="6.5" fill="#8892aa">eligible orders. Join ShopX Prime for</text>
+  <text x="114" y="169" font-family="monospace" font-size="6.5" fill="#8892aa">exclusive deals and faster shipping.</text>
+
+  <!-- CTAs -->
+  <rect x="114" y="177" width="78" height="18" rx="3" fill="#ff9900"/>
+  <text x="153" y="189" font-family="monospace" font-size="7" fill="#131921" text-anchor="middle" font-weight="700">Shop Now</text>
+  <rect x="200" y="177" width="70" height="18" rx="3" fill="none" stroke="#ff9900" stroke-width="1"/>
+  <text x="235" y="189" font-family="monospace" font-size="7" fill="#ff9900" text-anchor="middle">Try Prime</text>
+
+  <!-- Stats -->
+  <circle cx="125" cy="207" r="5" fill="#ff9900"/>
+  <text x="135" y="205" font-family="monospace" font-size="7" fill="#ffffff" font-weight="700">2M+</text>
+  <text x="135" y="214" font-family="monospace" font-size="5.5" fill="#8892aa">Products</text>
+  <line x1="162" y1="200" x2="162" y2="218" stroke="#1e2240" stroke-width="0.5"/>
+  <text x="168" y="205" font-family="monospace" font-size="7" fill="#ffffff" font-weight="700">1-Day</text>
+  <text x="168" y="214" font-family="monospace" font-size="5.5" fill="#8892aa">Delivery</text>
+  <line x1="200" y1="200" x2="200" y2="218" stroke="#1e2240" stroke-width="0.5"/>
+  <text x="206" y="205" font-family="monospace" font-size="7" fill="#ffffff" font-weight="700">4.8&#9733;</text>
+  <text x="206" y="214" font-family="monospace" font-size="5.5" fill="#8892aa">Avg Rating</text>
+
+  <line x1="104" y1="228" x2="308" y2="228" stroke="#1a1d30" stroke-width="0.5"/>
+
+  <!-- CATEGORIES SECTION -->
+  <polygon points="196,234 202,240 196,246 190,240" fill="none" stroke="#ff9900" stroke-width="1.2"/>
+  <text x="114" y="260" font-family="monospace" font-size="11" font-weight="700" fill="#ff9900">Top Categories</text>
+  <text x="114" y="272" font-family="monospace" font-size="6" fill="#8892aa">Browse our most popular departments</text>
+
+  <rect x="114" y="278" width="42" height="36" rx="3" fill="#131921" stroke="#232f3e" stroke-width="0.5"/>
+  <rect x="116" y="280" width="5" height="5" rx="0.5" fill="#ff9900"/>
+  <text x="135" y="296" font-family="monospace" font-size="5" fill="#ffffff" text-anchor="middle" font-weight="700">Electronics</text>
+  <text x="135" y="306" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">Gadgets</text>
+
+  <rect x="162" y="278" width="42" height="36" rx="3" fill="#131921" stroke="#ff9900" stroke-width="0.5"/>
+  <rect x="164" y="280" width="5" height="5" rx="0.5" fill="#ff9900"/>
+  <text x="183" y="296" font-family="monospace" font-size="5" fill="#ffffff" text-anchor="middle" font-weight="700">Fashion</text>
+  <text x="183" y="306" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">Clothing</text>
+
+  <rect x="210" y="278" width="42" height="36" rx="3" fill="#131921" stroke="#232f3e" stroke-width="0.5"/>
+  <rect x="212" y="280" width="5" height="5" rx="0.5" fill="#4ade80"/>
+  <text x="231" y="296" font-family="monospace" font-size="5" fill="#ffffff" text-anchor="middle" font-weight="700">Home</text>
+  <text x="231" y="306" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">Living</text>
+
+  <rect x="258" y="278" width="42" height="36" rx="3" fill="#131921" stroke="#232f3e" stroke-width="0.5"/>
+  <rect x="260" y="280" width="5" height="5" rx="0.5" fill="#60a5fa"/>
+  <text x="279" y="296" font-family="monospace" font-size="5" fill="#ffffff" text-anchor="middle" font-weight="700">Books</text>
+  <text x="279" y="306" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">Reading</text>
+
+  <polygon points="196,328 202,334 196,340 190,334" fill="none" stroke="#ff9900" stroke-width="1.2"/>
+
+  <!-- RIGHT ISOMETRIC SCENE -->
+  <ellipse cx="462" cy="192" rx="106" ry="86" fill="#190f02" opacity="0.9"/>
+  <polygon points="358,270 462,252 566,270 462,288" fill="#17100a" stroke="#26190a" stroke-width="0.5"/>
+
+  <!-- LEFT SHELF -->
+  <rect x="364" y="155" width="38" height="110" rx="2" fill="#15100a" stroke="#26190a" stroke-width="0.5"/>
+  <rect x="366" y="165" width="34" height="3" rx="0.5" fill="#26190a"/>
+  <rect x="366" y="188" width="34" height="3" rx="0.5" fill="#26190a"/>
+  <rect x="366" y="211" width="34" height="3" rx="0.5" fill="#26190a"/>
+  <rect x="366" y="234" width="34" height="3" rx="0.5" fill="#26190a"/>
+  <rect x="368" y="155" width="12" height="10" rx="1" fill="#ff9900" opacity="0.85"/>
+  <rect x="382" y="157" width="14" height="8" rx="1" fill="#4ade80" opacity="0.6"/>
+  <rect x="368" y="178" width="15" height="10" rx="1" fill="#60a5fa" opacity="0.7"/>
+  <rect x="385" y="179" width="11" height="9" rx="1" fill="#ff9900" opacity="0.6"/>
+  <rect x="368" y="201" width="13" height="10" rx="1" fill="#f472b6" opacity="0.55"/>
+  <rect x="383" y="202" width="13" height="9" rx="1" fill="#4ade80" opacity="0.5"/>
+  <rect x="368" y="224" width="11" height="10" rx="1" fill="#ff9900" opacity="0.9"/>
+  <rect x="381" y="225" width="15" height="9" rx="1" fill="#60a5fa" opacity="0.55"/>
+
+  <!-- RIGHT SHELF -->
+  <rect x="520" y="160" width="36" height="104" rx="2" fill="#15100a" stroke="#26190a" stroke-width="0.5"/>
+  <rect x="522" y="170" width="32" height="3" rx="0.5" fill="#26190a"/>
+  <rect x="522" y="192" width="32" height="3" rx="0.5" fill="#26190a"/>
+  <rect x="522" y="214" width="32" height="3" rx="0.5" fill="#26190a"/>
+  <rect x="522" y="236" width="32" height="3" rx="0.5" fill="#26190a"/>
+  <rect x="524" y="160" width="13" height="10" rx="1" fill="#f472b6" opacity="0.6"/>
+  <rect x="539" y="161" width="11" height="9" rx="1" fill="#ff9900" opacity="0.7"/>
+  <rect x="524" y="182" width="11" height="10" rx="1" fill="#4ade80" opacity="0.65"/>
+  <rect x="537" y="183" width="13" height="9" rx="1" fill="#60a5fa" opacity="0.55"/>
+  <rect x="524" y="204" width="15" height="9" rx="1" fill="#ff9900" opacity="0.8"/>
+  <rect x="524" y="226" width="12" height="9" rx="1" fill="#4ade80" opacity="0.5"/>
+  <rect x="538" y="227" width="12" height="8" rx="1" fill="#f472b6" opacity="0.55"/>
+
+  <!-- DELIVERY BOXES -->
+  <rect x="430" y="246" width="30" height="20" rx="1" fill="#c0821a" stroke="#8a5e10" stroke-width="0.5"/>
+  <line x1="445" y1="246" x2="445" y2="266" stroke="#8a5e10" stroke-width="0.5"/>
+  <line x1="430" y1="256" x2="460" y2="256" stroke="#8a5e10" stroke-width="0.5"/>
+  <rect x="437" y="249" width="14" height="4" rx="1" fill="#ff9900" opacity="0.5"/>
+  <rect x="434" y="230" width="24" height="16" rx="1" fill="#d4891e" stroke="#8a5e10" stroke-width="0.5"/>
+  <line x1="446" y1="230" x2="446" y2="246" stroke="#8a5e10" stroke-width="0.5"/>
+  <rect x="438" y="233" width="10" height="3" rx="1" fill="#ff9900" opacity="0.5"/>
+  <rect x="438" y="216" width="18" height="14" rx="1" fill="#c0821a" stroke="#8a5e10" stroke-width="0.5"/>
+
+  <!-- DELIVERY PERSON -->
+  <rect x="464" y="244" width="6" height="18" rx="2" fill="#1e3a5f"/>
+  <rect x="472" y="244" width="6" height="18" rx="2" fill="#1e3a5f"/>
+  <rect x="462" y="260" width="9" height="4" rx="1" fill="#0f1228"/>
+  <rect x="471" y="260" width="9" height="4" rx="1" fill="#0f1228"/>
+  <rect x="461" y="224" width="20" height="22" rx="3" fill="#ff9900"/>
+  <rect x="470" y="224" width="2" height="22" fill="#e08800"/>
+  <circle cx="471" cy="216" r="8" fill="#f4a26b"/>
+  <rect x="463" y="209" width="16" height="5" rx="2" fill="#ff9900"/>
+  <rect x="461" y="212" width="20" height="2" rx="1" fill="#e08800"/>
+  <line x1="461" y1="230" x2="448" y2="236" stroke="#f4a26b" stroke-width="4" stroke-linecap="round"/>
+  <line x1="481" y1="230" x2="494" y2="236" stroke="#f4a26b" stroke-width="4" stroke-linecap="round"/>
+  <rect x="448" y="230" width="46" height="18" rx="1" fill="#d4891e" stroke="#8a5e10" stroke-width="0.5"/>
+  <line x1="471" y1="230" x2="471" y2="248" stroke="#8a5e10" stroke-width="0.5"/>
+  <line x1="448" y1="239" x2="494" y2="239" stroke="#8a5e10" stroke-width="0.5"/>
+  <rect x="458" y="233" width="16" height="3" rx="1" fill="#ff9900" opacity="0.55"/>
+
+  <!-- SCOOTER -->
+  <rect x="393" y="242" width="30" height="12" rx="4" fill="#232f3e" stroke="#344050" stroke-width="0.5"/>
+  <rect x="395" y="238" width="20" height="8" rx="3" fill="#344050"/>
+  <circle cx="399" cy="255" r="5" fill="#131921" stroke="#4a5568" stroke-width="0.8"/>
+  <circle cx="399" cy="255" r="2" fill="#232f3e"/>
+  <circle cx="420" cy="255" r="5" fill="#131921" stroke="#4a5568" stroke-width="0.8"/>
+  <circle cx="420" cy="255" r="2" fill="#232f3e"/>
+  <rect x="406" y="233" width="14" height="10" rx="1" fill="#ff9900"/>
+  <text x="413" y="241" font-family="monospace" font-size="5" fill="#131921" text-anchor="middle" font-weight="700">SX</text>
+
+  <!-- PRODUCT CARD -->
+  <rect x="352" y="146" width="60" height="62" rx="3" fill="#131921" stroke="#232f3e" stroke-width="0.5"/>
+  <rect x="355" y="149" width="54" height="28" rx="2" fill="#1e2a3a"/>
+  <path d="M367 158 Q382 152 397 158" fill="none" stroke="#60a5fa" stroke-width="2"/>
+  <rect x="364" y="158" width="5" height="8" rx="2" fill="#60a5fa"/>
+  <rect x="393" y="158" width="5" height="8" rx="2" fill="#60a5fa"/>
+  <text x="382" y="190" font-family="monospace" font-size="5.5" fill="#ffffff" text-anchor="middle">Headphones</text>
+  <text x="382" y="199" font-family="monospace" font-size="6" fill="#ff9900" text-anchor="middle" font-weight="700">$49.99</text>
+  <text x="366" y="197" font-family="monospace" font-size="4.5" fill="#ff9900">&#9733;&#9733;&#9733;&#9733;</text>
+  <rect x="362" y="201" width="40" height="10" rx="2" fill="#ff9900"/>
+  <text x="382" y="209" font-family="monospace" font-size="5.5" fill="#131921" text-anchor="middle" font-weight="700">Add to Cart</text>
+
+  <!-- ORDER TRACKER -->
+  <rect x="502" y="142" width="64" height="54" rx="3" fill="#131921" stroke="#ff9900" stroke-width="0.5"/>
+  <text x="534" y="155" font-family="monospace" font-size="5.5" fill="#8892aa" text-anchor="middle">Order #7823</text>
+  <line x1="508" y1="161" x2="560" y2="161" stroke="#232f3e" stroke-width="0.5"/>
+  <circle cx="514" cy="172" r="3" fill="#ff9900"/>
+  <line x1="517" y1="172" x2="526" y2="172" stroke="#ff9900" stroke-width="1"/>
+  <circle cx="529" cy="172" r="3" fill="#ff9900"/>
+  <line x1="532" y1="172" x2="540" y2="172" stroke="#4ade80" stroke-width="1" stroke-dasharray="2,1"/>
+  <circle cx="543" cy="172" r="3" fill="#232f3e" stroke="#4ade80" stroke-width="0.8"/>
+  <line x1="546" y1="172" x2="553" y2="172" stroke="#232f3e" stroke-width="1" stroke-dasharray="2,1"/>
+  <circle cx="556" cy="172" r="3" fill="#232f3e" stroke="#344050" stroke-width="0.8"/>
+  <text x="534" y="184" font-family="monospace" font-size="5" fill="#4ade80" text-anchor="middle">Out for delivery</text>
+  <text x="534" y="193" font-family="monospace" font-size="6" fill="#ffffff" text-anchor="middle" font-weight="700">Today by 8PM</text>
+
+  <!-- Decorative geometry -->
+  <polygon points="372,110 378,116 372,122 366,116" fill="none" stroke="#26190a" stroke-width="1"/>
+  <polygon points="554,150 560,156 554,162 548,156" fill="none" stroke="#26190a" stroke-width="1"/>
+  <rect x="540" y="106" width="8" height="8" fill="none" stroke="#ff9900" stroke-width="0.8" transform="rotate(45 544 110)"/>
+  <rect x="364" y="104" width="6" height="6" fill="none" stroke="#252848" stroke-width="0.8" transform="rotate(45 367 107)"/>
+  <polygon points="554,36 563,50 545,50" fill="#ff9900" opacity="0.85"/>
+</g>
+
+<!-- Laptop hinge + base -->
+<rect x="92" y="356" width="496" height="16" rx="3" fill="#131523" stroke="#1a1d2e" stroke-width="0.5"/>
+<rect x="68" y="370" width="544" height="12" rx="6" fill="#0f1120" stroke="#191c2c" stroke-width="0.5"/>
+<rect x="290" y="357" width="100" height="9" rx="3" fill="#0d0f1c" stroke="#191c2c" stroke-width="0.4"/>
+</svg>

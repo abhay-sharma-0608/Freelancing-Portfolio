@@ -1,0 +1,184 @@
+<svg width="680" height="500" viewBox="0 0 680 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <clipPath id="sc2">
+    <rect x="104" y="34" width="472" height="314" rx="4"/>
+  </clipPath>
+</defs>
+
+<!-- Laptop lid outer -->
+<rect x="0" y="0" width="680" height="500" fill="#0a0c18"/>
+<rect x="92" y="24" width="496" height="332" rx="13" fill="#111420" stroke="#1e2235" stroke-width="1"/>
+<rect x="98" y="28" width="484" height="326" rx="10" fill="#0a0c18"/>
+<circle cx="340" cy="33" r="2.5" fill="#1a1d2e"/>
+
+<g clip-path="url(#sc2)">
+  <rect x="104" y="34" width="472" height="314" fill="#0d0f1c"/>
+
+  <!-- NAV BAR -->
+  <rect x="104" y="34" width="472" height="28" fill="#131921"/>
+  <rect x="112" y="40" width="48" height="16" rx="2" fill="#ff9900"/>
+  <text x="136" y="52" font-family="monospace" font-size="8" font-weight="700" fill="#131921" text-anchor="middle" letter-spacing="2">DRAPE</text>
+  <rect x="166" y="40" width="218" height="16" rx="2" fill="#ffffff"/>
+  <text x="176" y="52" font-family="monospace" font-size="6.5" fill="#888888">Search sarees, lehengas and more...</text>
+  <rect x="382" y="40" width="18" height="16" rx="0" fill="#ff9900"/>
+  <text x="391" y="52" font-family="monospace" font-size="8" fill="#131921" text-anchor="middle">Q</text>
+  <text x="408" y="50" font-family="monospace" font-size="6" fill="#cccccc">Account</text>
+  <text x="444" y="50" font-family="monospace" font-size="6" fill="#cccccc">Orders</text>
+  <rect x="471" y="39" width="22" height="16" rx="2" fill="#232f3e"/>
+  <path d="M477,44 Q480,41 483,44 Q486,41 489,44 L489,51 L477,51Z" fill="none" stroke="#ff9900" stroke-width="1"/>
+  <circle cx="489" cy="40" r="3" fill="#ff9900"/>
+  <text x="489" y="42" font-family="monospace" font-size="5" fill="#131921" text-anchor="middle" font-weight="700">2</text>
+
+  <!-- CATEGORY BAR -->
+  <rect x="104" y="62" width="472" height="14" fill="#232f3e"/>
+  <text x="112" y="72" font-family="monospace" font-size="6" fill="#cccccc">All</text>
+  <text x="128" y="72" font-family="monospace" font-size="6" fill="#cccccc">Sarees</text>
+  <text x="164" y="72" font-family="monospace" font-size="6" fill="#cccccc">Lehengas</text>
+  <text x="212" y="72" font-family="monospace" font-size="6" fill="#cccccc">Fusion</text>
+  <text x="244" y="72" font-family="monospace" font-size="6" fill="#cccccc">Bridal</text>
+  <text x="276" y="72" font-family="monospace" font-size="6" fill="#ff9900">New In</text>
+  <text x="310" y="72" font-family="monospace" font-size="6" fill="#cccccc">Couture</text>
+  <text x="350" y="72" font-family="monospace" font-size="6" fill="#cccccc">Accessories</text>
+
+  <!-- Diamond top accent -->
+  <polygon points="196,86 202,92 196,98 190,92" fill="none" stroke="#ff9900" stroke-width="1.5"/>
+
+  <!-- HERO HEADING -->
+  <text x="114" y="116" font-family="monospace" font-size="14" font-weight="700" fill="#ff9900" letter-spacing="1">WEAR THE STORY.</text>
+  <text x="114" y="133" font-family="monospace" font-size="14" font-weight="700" fill="#ffffff" letter-spacing="1">DRAPE IN LUXURY.</text>
+
+  <text x="114" y="149" font-family="monospace" font-size="6.5" fill="#8892aa">Handcrafted silhouettes by India's finest</text>
+  <text x="114" y="159" font-family="monospace" font-size="6.5" fill="#8892aa">designers. From bridal couture to everyday</text>
+  <text x="114" y="169" font-family="monospace" font-size="6.5" fill="#8892aa">elegance — your story, beautifully told.</text>
+
+  <!-- CTAs -->
+  <rect x="114" y="177" width="84" height="18" rx="3" fill="#ff9900"/>
+  <text x="156" y="189" font-family="monospace" font-size="7" fill="#131921" text-anchor="middle" font-weight="700">Shop Now</text>
+  <rect x="206" y="177" width="78" height="18" rx="3" fill="none" stroke="#ff9900" stroke-width="1"/>
+  <text x="245" y="189" font-family="monospace" font-size="7" fill="#ff9900" text-anchor="middle">View Lookbook</text>
+
+  <!-- Stats -->
+  <circle cx="125" cy="207" r="5" fill="#ff9900"/>
+  <text x="135" y="205" font-family="monospace" font-size="7" fill="#ffffff" font-weight="700">500+</text>
+  <text x="135" y="214" font-family="monospace" font-size="5.5" fill="#8892aa">Styles</text>
+  <line x1="166" y1="200" x2="166" y2="218" stroke="#1e2240" stroke-width="0.5"/>
+  <text x="172" y="205" font-family="monospace" font-size="7" fill="#ffffff" font-weight="700">12+</text>
+  <text x="172" y="214" font-family="monospace" font-size="5.5" fill="#8892aa">Designers</text>
+  <line x1="204" y1="200" x2="204" y2="218" stroke="#1e2240" stroke-width="0.5"/>
+  <text x="210" y="205" font-family="monospace" font-size="7" fill="#ffffff" font-weight="700">4.9&#9733;</text>
+  <text x="210" y="214" font-family="monospace" font-size="5.5" fill="#8892aa">Avg Rating</text>
+
+  <line x1="104" y1="228" x2="308" y2="228" stroke="#1a1d30" stroke-width="0.5"/>
+
+  <!-- OCCASIONS SECTION -->
+  <polygon points="196,234 202,240 196,246 190,240" fill="none" stroke="#ff9900" stroke-width="1.2"/>
+  <text x="114" y="260" font-family="monospace" font-size="11" font-weight="700" fill="#ff9900">Shop by Occasion</text>
+  <text x="114" y="272" font-family="monospace" font-size="6" fill="#8892aa">Curated collections for every milestone</text>
+
+  <rect x="114" y="278" width="42" height="36" rx="3" fill="#131921" stroke="#232f3e" stroke-width="0.5"/>
+  <rect x="116" y="280" width="5" height="5" rx="0.5" fill="#ff9900"/>
+  <text x="135" y="296" font-family="monospace" font-size="5" fill="#ffffff" text-anchor="middle" font-weight="700">Bridal</text>
+  <text x="135" y="306" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">18 pieces</text>
+
+  <rect x="162" y="278" width="42" height="36" rx="3" fill="#131921" stroke="#ff9900" stroke-width="0.5"/>
+  <rect x="164" y="280" width="5" height="5" rx="0.5" fill="#ff9900"/>
+  <text x="183" y="296" font-family="monospace" font-size="5" fill="#ffffff" text-anchor="middle" font-weight="700">Evening</text>
+  <text x="183" y="306" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">34 pieces</text>
+
+  <rect x="210" y="278" width="42" height="36" rx="3" fill="#131921" stroke="#232f3e" stroke-width="0.5"/>
+  <rect x="212" y="280" width="5" height="5" rx="0.5" fill="#4ade80"/>
+  <text x="231" y="296" font-family="monospace" font-size="5" fill="#ffffff" text-anchor="middle" font-weight="700">Casual</text>
+  <text x="231" y="306" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">52 pieces</text>
+
+  <rect x="258" y="278" width="42" height="36" rx="3" fill="#131921" stroke="#232f3e" stroke-width="0.5"/>
+  <rect x="260" y="280" width="5" height="5" rx="0.5" fill="#60a5fa"/>
+  <text x="279" y="296" font-family="monospace" font-size="5" fill="#ffffff" text-anchor="middle" font-weight="700">Resort</text>
+  <text x="279" y="306" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">27 pieces</text>
+
+  <polygon points="196,328 202,334 196,340 190,334" fill="none" stroke="#ff9900" stroke-width="1.2"/>
+
+  <!-- RIGHT ISOMETRIC SCENE BG -->
+  <ellipse cx="462" cy="192" rx="106" ry="86" fill="#090b17" opacity="0.9"/>
+  <polygon points="358,270 462,252 566,270 462,288" fill="#0d1020" stroke="#1a1d30" stroke-width="0.5"/>
+
+  <!-- LEFT GARMENT STAND - Saree -->
+  <rect x="364" y="120" width="38" height="130" rx="2" fill="#0f1228" stroke="#1e2240" stroke-width="0.5"/>
+  <rect x="376" y="120" width="3" height="8" rx="1" fill="#232f3e"/>
+  <ellipse cx="377" cy="122" rx="8" ry="3" fill="#232f3e"/>
+  <path d="M370,130 Q365,148 367,178 Q369,198 374,212 Q377,217 380,212 Q383,198 385,178 Q387,148 382,130Z" fill="#1e2a3a"/>
+  <path d="M372,133 Q368,150 370,178 Q372,197 375,210" fill="none" stroke="#ff9900" stroke-width="0.6" opacity="0.5"/>
+  <path d="M378,133 Q382,150 380,178 Q378,197 381,210" fill="none" stroke="#60a5fa" stroke-width="0.4" opacity="0.3"/>
+  <circle cx="376" cy="148" r="1" fill="#ff9900" opacity="0.7"/>
+  <circle cx="374" cy="155" r="0.8" fill="#ff9900" opacity="0.5"/>
+  <circle cx="378" cy="155" r="0.8" fill="#ff9900" opacity="0.5"/>
+  <circle cx="376" cy="162" r="1" fill="#ff9900" opacity="0.4"/>
+  <rect x="366" y="216" width="30" height="12" rx="1" fill="#131921" stroke="#232f3e" stroke-width="0.4"/>
+  <text x="381" y="224" font-family="monospace" font-size="4.5" fill="#ff9900" text-anchor="middle" font-weight="700">Rs.24,999</text>
+
+  <!-- CENTRE STAND - Lehenga -->
+  <rect x="440" y="125" width="42" height="125" rx="2" fill="#0f1228" stroke="#1e2240" stroke-width="0.5"/>
+  <rect x="459" y="125" width="3" height="8" rx="1" fill="#232f3e"/>
+  <ellipse cx="460" cy="127" rx="9" ry="3" fill="#232f3e"/>
+  <path d="M446,135 Q442,158 444,186 Q446,206 452,218 Q456,225 460,222 Q464,225 468,218 Q474,206 476,186 Q478,158 474,135Z" fill="#1a1e3a"/>
+  <path d="M454,137 Q451,157 452,184 Q453,203 456,216" fill="none" stroke="#f472b6" stroke-width="0.6" opacity="0.45"/>
+  <path d="M466,137 Q469,157 468,184 Q467,203 464,216" fill="none" stroke="#ff9900" stroke-width="0.5" opacity="0.4"/>
+  <path d="M444,200 Q460,205 476,200" fill="none" stroke="#ff9900" stroke-width="1" opacity="0.6"/>
+  <circle cx="452" cy="150" r="1.2" fill="#f472b6" opacity="0.6"/>
+  <circle cx="460" cy="146" r="1.2" fill="#ff9900" opacity="0.7"/>
+  <circle cx="468" cy="150" r="1.2" fill="#f472b6" opacity="0.6"/>
+  <rect x="442" y="228" width="36" height="12" rx="1" fill="#131921" stroke="#ff9900" stroke-width="0.4"/>
+  <text x="460" y="236" font-family="monospace" font-size="4.5" fill="#ff9900" text-anchor="middle" font-weight="700">Rs.38,999</text>
+
+  <!-- RIGHT STAND - Fusion dress -->
+  <rect x="520" y="130" width="36" height="118" rx="2" fill="#0f1228" stroke="#1e2240" stroke-width="0.5"/>
+  <rect x="536" y="130" width="3" height="8" rx="1" fill="#232f3e"/>
+  <ellipse cx="537" cy="132" rx="8" ry="3" fill="#232f3e"/>
+  <path d="M526,140 Q522,160 524,184 Q526,200 530,212 Q534,218 537,215 Q540,218 544,212 Q548,200 550,184 Q552,160 548,140Z" fill="#1e2830"/>
+  <path d="M530,143 Q527,160 528,182 Q529,198 532,210" fill="none" stroke="#4ade80" stroke-width="0.5" opacity="0.4"/>
+  <rect x="520" y="130" width="16" height="8" rx="1" fill="#ff9900"/>
+  <text x="528" y="136" font-family="monospace" font-size="4.5" fill="#131921" text-anchor="middle" font-weight="700">SALE</text>
+  <rect x="522" y="220" width="32" height="20" rx="1" fill="#131921" stroke="#232f3e" stroke-width="0.4"/>
+  <text x="538" y="229" font-family="monospace" font-size="4" fill="#8892aa" text-anchor="middle" text-decoration="line-through">Rs.8,999</text>
+  <text x="538" y="237" font-family="monospace" font-size="5" fill="#ff9900" text-anchor="middle" font-weight="700">Rs.5,499</text>
+
+  <!-- PRODUCT CARD (floating) -->
+  <rect x="352" y="112" width="60" height="62" rx="3" fill="#131921" stroke="#232f3e" stroke-width="0.5"/>
+  <rect x="355" y="115" width="54" height="28" rx="2" fill="#1a1e2e"/>
+  <path d="M367,122 Q374,118 383,122 Q390,128 388,136 Q383,138 382,135 Q378,127 376,126 Q374,127 370,135 Q369,138 364,136 Q362,128 367,122Z" fill="#2a3050"/>
+  <path d="M369,122 Q376,117 385,121" fill="none" stroke="#ff9900" stroke-width="0.8" opacity="0.6"/>
+  <circle cx="376" cy="128" r="1.5" fill="#ff9900" opacity="0.5"/>
+  <text x="382" y="156" font-family="monospace" font-size="5.5" fill="#ffffff" text-anchor="middle">Silk Wrap Saree</text>
+  <text x="382" y="165" font-family="monospace" font-size="6" fill="#ff9900" text-anchor="middle" font-weight="700">Rs.12,499</text>
+  <text x="366" y="163" font-family="monospace" font-size="4.5" fill="#ff9900">&#9733;&#9733;&#9733;&#9733;</text>
+  <rect x="362" y="167" width="40" height="10" rx="2" fill="#ff9900"/>
+  <text x="382" y="175" font-family="monospace" font-size="5.5" fill="#131921" text-anchor="middle" font-weight="700">Add to Bag</text>
+
+  <!-- SIZE SELECTOR CARD -->
+  <rect x="502" y="108" width="64" height="54" rx="3" fill="#131921" stroke="#ff9900" stroke-width="0.5"/>
+  <text x="534" y="121" font-family="monospace" font-size="5.5" fill="#8892aa" text-anchor="middle">Select Size</text>
+  <line x1="508" y1="127" x2="560" y2="127" stroke="#232f3e" stroke-width="0.5"/>
+  <rect x="510" y="131" width="10" height="9" rx="1" fill="#232f3e" stroke="#4a5568" stroke-width="0.4"/>
+  <text x="515" y="138" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">XS</text>
+  <rect x="524" y="131" width="10" height="9" rx="1" fill="#ff9900"/>
+  <text x="529" y="138" font-family="monospace" font-size="4.5" fill="#131921" text-anchor="middle" font-weight="700">S</text>
+  <rect x="538" y="131" width="10" height="9" rx="1" fill="#232f3e" stroke="#4a5568" stroke-width="0.4"/>
+  <text x="543" y="138" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">M</text>
+  <rect x="552" y="131" width="10" height="9" rx="1" fill="#232f3e" stroke="#4a5568" stroke-width="0.4"/>
+  <text x="557" y="138" font-family="monospace" font-size="4.5" fill="#8892aa" text-anchor="middle">L</text>
+  <text x="534" y="152" font-family="monospace" font-size="5" fill="#4ade80" text-anchor="middle">In Stock</text>
+  <text x="534" y="161" font-family="monospace" font-size="6" fill="#ffffff" text-anchor="middle" font-weight="700">Ships in 3 days</text>
+
+  <!-- Decorative geometry -->
+  <polygon points="372,78 378,84 372,90 366,84" fill="none" stroke="#1e2240" stroke-width="1"/>
+  <polygon points="554,118 560,124 554,130 548,124" fill="none" stroke="#1e2240" stroke-width="1"/>
+  <rect x="540" y="74" width="8" height="8" fill="none" stroke="#ff9900" stroke-width="0.8" transform="rotate(45 544 78)"/>
+  <rect x="364" y="72" width="6" height="6" fill="none" stroke="#252848" stroke-width="0.8" transform="rotate(45 367 75)"/>
+  <polygon points="554,36 563,50 545,50" fill="#ff9900" opacity="0.85"/>
+
+</g>
+
+<!-- Laptop hinge + base -->
+<rect x="92" y="356" width="496" height="16" rx="3" fill="#131523" stroke="#1a1d2e" stroke-width="0.5"/>
+<rect x="68" y="370" width="544" height="12" rx="6" fill="#0f1120" stroke="#191c2c" stroke-width="0.5"/>
+<rect x="290" y="357" width="100" height="9" rx="3" fill="#0d0f1c" stroke="#191c2c" stroke-width="0.4"/>
+</svg>

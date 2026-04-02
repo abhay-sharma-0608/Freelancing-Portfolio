@@ -1,0 +1,223 @@
+<svg width="680" height="500" viewBox="0 0 680 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <clipPath id="sc3">
+    <rect x="104" y="34" width="472" height="314" rx="4"/>
+  </clipPath>
+</defs>
+
+<!-- Laptop lid outer -->
+<rect x="0" y="0" width="680" height="500" fill="#0a0c18"/>
+<rect x="92" y="24" width="496" height="332" rx="13" fill="#111420" stroke="#1e2235" stroke-width="1"/>
+<rect x="98" y="28" width="484" height="326" rx="10" fill="#0a0c18"/>
+<circle cx="340" cy="33" r="2.5" fill="#1a1d2e"/>
+
+<g clip-path="url(#sc3)">
+  <rect x="104" y="34" width="472" height="314" fill="#0d0f1c"/>
+
+  <!-- NAV BAR -->
+  <rect x="104" y="34" width="472" height="28" fill="#131921"/>
+
+  <!-- Logo -->
+  <rect x="112" y="40" width="46" height="16" rx="2" fill="#e8c36a"/>
+  <text x="135" y="52" font-family="monospace" font-size="8" font-weight="700" fill="#131921" text-anchor="middle" letter-spacing="1">LUMINA</text>
+
+  <!-- Nav links -->
+  <text x="168" y="50" font-family="monospace" font-size="6" fill="#cccccc">Menu</text>
+  <text x="194" y="50" font-family="monospace" font-size="6" fill="#cccccc">Reservations</text>
+  <text x="254" y="50" font-family="monospace" font-size="6" fill="#cccccc">About</text>
+  <text x="282" y="50" font-family="monospace" font-size="6" fill="#cccccc">Events</text>
+  <text x="314" y="50" font-family="monospace" font-size="6" fill="#e8c36a">Gallery</text>
+
+  <!-- Reserve button -->
+  <rect x="390" y="40" width="68" height="16" rx="2" fill="#e8c36a"/>
+  <text x="424" y="51" font-family="monospace" font-size="6.5" fill="#131921" text-anchor="middle" font-weight="700">Reserve a Table</text>
+
+  <!-- Phone + hours right -->
+  <text x="466" y="46" font-family="monospace" font-size="5.5" fill="#8892aa">&#9742; +91 98765 43210</text>
+  <text x="466" y="54" font-family="monospace" font-size="5" fill="#4a5568">Open: 12PM – 11PM</text>
+
+  <!-- CATEGORY / MENU NAV BAR -->
+  <rect x="104" y="62" width="472" height="14" fill="#1a1d2e"/>
+  <text x="112" y="72" font-family="monospace" font-size="6" fill="#cccccc">Starters</text>
+  <text x="150" y="72" font-family="monospace" font-size="6" fill="#cccccc">Mains</text>
+  <text x="182" y="72" font-family="monospace" font-size="6" fill="#cccccc">Seafood</text>
+  <text x="220" y="72" font-family="monospace" font-size="6" fill="#cccccc">Grills</text>
+  <text x="248" y="72" font-family="monospace" font-size="6" fill="#e8c36a">Chef's Special</text>
+  <text x="302" y="72" font-family="monospace" font-size="6" fill="#cccccc">Desserts</text>
+  <text x="344" y="72" font-family="monospace" font-size="6" fill="#cccccc">Beverages</text>
+  <text x="392" y="72" font-family="monospace" font-size="6" fill="#cccccc">Wine List</text>
+
+  <!-- Diamond accent -->
+  <polygon points="196,86 202,92 196,98 190,92" fill="none" stroke="#e8c36a" stroke-width="1.5"/>
+
+  <!-- HERO HEADING -->
+  <text x="114" y="116" font-family="monospace" font-size="14" font-weight="700" fill="#e8c36a" letter-spacing="1">TASTE THE MOMENT.</text>
+  <text x="114" y="133" font-family="monospace" font-size="14" font-weight="700" fill="#ffffff" letter-spacing="1">DINE IN ELEGANCE.</text>
+
+  <text x="114" y="149" font-family="monospace" font-size="6.5" fill="#8892aa">An intimate fine-dining experience crafted</text>
+  <text x="114" y="159" font-family="monospace" font-size="6.5" fill="#8892aa">with seasonal ingredients, bold flavours, and</text>
+  <text x="114" y="169" font-family="monospace" font-size="6.5" fill="#8892aa">an atmosphere that stays with you forever.</text>
+
+  <!-- CTAs -->
+  <rect x="114" y="177" width="90" height="18" rx="3" fill="#e8c36a"/>
+  <text x="159" y="189" font-family="monospace" font-size="7" fill="#131921" text-anchor="middle" font-weight="700">Book a Table</text>
+  <rect x="212" y="177" width="76" height="18" rx="3" fill="none" stroke="#e8c36a" stroke-width="1"/>
+  <text x="250" y="189" font-family="monospace" font-size="7" fill="#e8c36a" text-anchor="middle">View Menu</text>
+
+  <!-- Stats -->
+  <circle cx="125" cy="207" r="5" fill="#e8c36a"/>
+  <text x="135" y="205" font-family="monospace" font-size="7" fill="#ffffff" font-weight="700">120+</text>
+  <text x="135" y="214" font-family="monospace" font-size="5.5" fill="#8892aa">Dishes</text>
+  <line x1="166" y1="200" x2="166" y2="218" stroke="#1e2240" stroke-width="0.5"/>
+  <text x="172" y="205" font-family="monospace" font-size="7" fill="#ffffff" font-weight="700">8 Yrs</text>
+  <text x="172" y="214" font-family="monospace" font-size="5.5" fill="#8892aa">Est. 2016</text>
+  <line x1="205" y1="200" x2="205" y2="218" stroke="#1e2240" stroke-width="0.5"/>
+  <text x="211" y="205" font-family="monospace" font-size="7" fill="#ffffff" font-weight="700">4.9&#9733;</text>
+  <text x="211" y="214" font-family="monospace" font-size="5.5" fill="#8892aa">Zomato</text>
+
+  <line x1="104" y1="228" x2="308" y2="228" stroke="#1a1d30" stroke-width="0.5"/>
+
+  <!-- MENU SECTION -->
+  <polygon points="196,234 202,240 196,246 190,240" fill="none" stroke="#e8c36a" stroke-width="1.2"/>
+  <text x="114" y="260" font-family="monospace" font-size="11" font-weight="700" fill="#e8c36a">Tonight's Specials</text>
+  <text x="114" y="272" font-family="monospace" font-size="6" fill="#8892aa">Handpicked by our Executive Chef</text>
+
+  <!-- Menu Item Card 1 -->
+  <rect x="114" y="278" width="56" height="36" rx="3" fill="#131921" stroke="#1e2240" stroke-width="0.5"/>
+  <rect x="116" y="280" width="5" height="5" rx="0.5" fill="#e8c36a"/>
+  <text x="142" y="292" font-family="monospace" font-size="4.5" fill="#ffffff" text-anchor="middle" font-weight="700">Truffle Risotto</text>
+  <text x="142" y="300" font-family="monospace" font-size="4" fill="#8892aa" text-anchor="middle">Arborio, Porcini</text>
+  <text x="142" y="308" font-family="monospace" font-size="5" fill="#e8c36a" text-anchor="middle" font-weight="700">Rs.1,450</text>
+
+  <!-- Menu Item Card 2 (highlighted) -->
+  <rect x="176" y="278" width="56" height="36" rx="3" fill="#131921" stroke="#e8c36a" stroke-width="0.5"/>
+  <rect x="178" y="280" width="5" height="5" rx="0.5" fill="#e8c36a"/>
+  <text x="204" y="292" font-family="monospace" font-size="4.5" fill="#ffffff" text-anchor="middle" font-weight="700">Wagyu Steak</text>
+  <text x="204" y="300" font-family="monospace" font-size="4" fill="#8892aa" text-anchor="middle">A5, Herb Butter</text>
+  <text x="204" y="308" font-family="monospace" font-size="5" fill="#e8c36a" text-anchor="middle" font-weight="700">Rs.4,200</text>
+
+  <!-- Menu Item Card 3 -->
+  <rect x="238" y="278" width="56" height="36" rx="3" fill="#131921" stroke="#1e2240" stroke-width="0.5"/>
+  <rect x="240" y="280" width="5" height="5" rx="0.5" fill="#4ade80"/>
+  <text x="266" y="292" font-family="monospace" font-size="4.5" fill="#ffffff" text-anchor="middle" font-weight="700">Lobster Bisque</text>
+  <text x="266" y="300" font-family="monospace" font-size="4" fill="#8892aa" text-anchor="middle">Cream, Brandy</text>
+  <text x="266" y="308" font-family="monospace" font-size="5" fill="#e8c36a" text-anchor="middle" font-weight="700">Rs.1,890</text>
+
+  <polygon points="196,328 202,334 196,340 190,334" fill="none" stroke="#e8c36a" stroke-width="1.2"/>
+
+  <!-- ── RIGHT ISOMETRIC DINING SCENE ── -->
+  <ellipse cx="462" cy="192" rx="106" ry="86" fill="#090b17" opacity="0.9"/>
+  <polygon points="358,270 462,252 566,270 462,288" fill="#0d1020" stroke="#1a1d30" stroke-width="0.5"/>
+
+  <!-- TABLE SETUP (isometric-style) -->
+  <!-- Main dining table -->
+  <ellipse cx="462" cy="220" rx="50" ry="20" fill="#17110a" stroke="#2a1e0e" stroke-width="0.8"/>
+  <rect x="412" y="205" width="100" height="15" rx="2" fill="#1e1508" stroke="#2a1e0e" stroke-width="0.5"/>
+  <!-- Table cloth highlights -->
+  <ellipse cx="462" cy="205" rx="48" ry="9" fill="#221a0c" stroke="#3a2a10" stroke-width="0.5"/>
+  <!-- Candle centerpiece -->
+  <rect x="458" y="185" width="4" height="18" rx="1" fill="#2a2010"/>
+  <ellipse cx="460" cy="184" rx="5" ry="2" fill="#3a2e18"/>
+  <ellipse cx="460" cy="182" rx="2" ry="3" fill="#e8c36a" opacity="0.9"/>
+  <!-- candle glow -->
+  <ellipse cx="460" cy="182" rx="8" ry="6" fill="#e8c36a" opacity="0.08"/>
+  <!-- Flame -->
+  <path d="M459,179 Q460,175 461,179 Q462,182 460,183 Q458,182 459,179Z" fill="#ffdd88" opacity="0.95"/>
+
+  <!-- Plates (left & right) -->
+  <ellipse cx="438" cy="210" rx="12" ry="5" fill="#0f0e0a" stroke="#2a2010" stroke-width="0.6"/>
+  <ellipse cx="438" cy="210" rx="8" ry="3.5" fill="#161410"/>
+  <!-- food on plate left -->
+  <ellipse cx="438" cy="209" rx="4" ry="2" fill="#3a2510" opacity="0.8"/>
+  <circle cx="437" cy="209" r="1.2" fill="#e8c36a" opacity="0.5"/>
+
+  <ellipse cx="486" cy="210" rx="12" ry="5" fill="#0f0e0a" stroke="#2a2010" stroke-width="0.6"/>
+  <ellipse cx="486" cy="210" rx="8" ry="3.5" fill="#161410"/>
+  <ellipse cx="486" cy="209" rx="4" ry="2" fill="#3a2510" opacity="0.8"/>
+  <circle cx="487" cy="209" r="1.2" fill="#e8c36a" opacity="0.5"/>
+
+  <!-- Wine glasses -->
+  <!-- Left glass -->
+  <line x1="430" y1="198" x2="430" y2="210" stroke="#3a3020" stroke-width="1" stroke-linecap="round"/>
+  <path d="M426,196 Q430,200 434,196 Q432,192 430,192 Q428,192 426,196Z" fill="none" stroke="#3a3020" stroke-width="0.8"/>
+  <ellipse cx="430" cy="211" rx="4" ry="1" fill="#2a2010"/>
+  <!-- wine in glass -->
+  <path d="M427,197 Q430,199 433,197 Q431,195 430,195 Q429,195 427,197Z" fill="#6a1a2a" opacity="0.7"/>
+
+  <!-- Right glass -->
+  <line x1="494" y1="198" x2="494" y2="210" stroke="#3a3020" stroke-width="1" stroke-linecap="round"/>
+  <path d="M490,196 Q494,200 498,196 Q496,192 494,192 Q492,192 490,196Z" fill="none" stroke="#3a3020" stroke-width="0.8"/>
+  <ellipse cx="494" cy="211" rx="4" ry="1" fill="#2a2010"/>
+  <path d="M491,197 Q494,199 497,197 Q495,195 494,195 Q493,195 491,197Z" fill="#6a1a2a" opacity="0.7"/>
+
+  <!-- Cutlery -->
+  <line x1="420" y1="202" x2="418" y2="218" stroke="#3a3020" stroke-width="0.7"/>
+  <line x1="423" y1="202" x2="421" y2="218" stroke="#3a3020" stroke-width="0.7"/>
+  <line x1="503" y1="202" x2="505" y2="218" stroke="#3a3020" stroke-width="0.7"/>
+
+  <!-- Table legs -->
+  <line x1="422" y1="220" x2="418" y2="240" stroke="#1a1208" stroke-width="2" stroke-linecap="round"/>
+  <line x1="502" y1="220" x2="506" y2="240" stroke="#1a1208" stroke-width="2" stroke-linecap="round"/>
+  <line x1="442" y1="224" x2="440" y2="244" stroke="#1a1208" stroke-width="2" stroke-linecap="round"/>
+  <line x1="482" y1="224" x2="484" y2="244" stroke="#1a1208" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- CHAIRS (suggestion) -->
+  <rect x="445" y="228" width="32" height="14" rx="3" fill="#181410" stroke="#2a1e0e" stroke-width="0.5"/>
+  <rect x="447" y="225" width="28" height="5" rx="2" fill="#1e1a0e" stroke="#2a1e0e" stroke-width="0.4"/>
+  <rect x="404" y="204" width="10" height="22" rx="3" fill="#181410" stroke="#2a1e0e" stroke-width="0.4"/>
+  <rect x="510" y="204" width="10" height="22" rx="3" fill="#181410" stroke="#2a1e0e" stroke-width="0.4"/>
+
+  <!-- Ambient wall art / arch -->
+  <path d="M370,110 Q370,80 390,76 L534,76 Q554,80 554,110" fill="none" stroke="#2a1e0e" stroke-width="1"/>
+  <path d="M374,110 Q374,84 392,80 L530,80 Q548,84 548,110" fill="none" stroke="#1e1608" stroke-width="0.5"/>
+
+  <!-- Wall sconces -->
+  <circle cx="390" cy="100" r="5" fill="#2a1e08" stroke="#3a2a10" stroke-width="0.5"/>
+  <ellipse cx="390" cy="100" rx="3" ry="4" fill="#e8c36a" opacity="0.15"/>
+  <path d="M388,97 Q390,93 392,97 Q391,100 390,100 Q389,100 388,97Z" fill="#ffdd88" opacity="0.7"/>
+
+  <circle cx="534" cy="100" r="5" fill="#2a1e08" stroke="#3a2a10" stroke-width="0.5"/>
+  <ellipse cx="534" cy="100" rx="3" ry="4" fill="#e8c36a" opacity="0.15"/>
+  <path d="M532,97 Q534,93 536,97 Q535,100 534,100 Q533,100 532,97Z" fill="#ffdd88" opacity="0.7"/>
+
+  <!-- RESERVATION CARD -->
+  <rect x="352" y="112" width="62" height="68" rx="3" fill="#131921" stroke="#e8c36a" stroke-width="0.5"/>
+  <text x="383" y="124" font-family="monospace" font-size="5.5" fill="#8892aa" text-anchor="middle">Reservation</text>
+  <line x1="358" y1="129" x2="408" y2="129" stroke="#1e2240" stroke-width="0.5"/>
+  <!-- Date field -->
+  <rect x="357" y="133" width="50" height="9" rx="1" fill="#0d0f1c" stroke="#232f3e" stroke-width="0.4"/>
+  <text x="382" y="140" font-family="monospace" font-size="4.5" fill="#4a5568" text-anchor="middle">Date: 14 Jul 2026</text>
+  <!-- Time field -->
+  <rect x="357" y="145" width="50" height="9" rx="1" fill="#0d0f1c" stroke="#232f3e" stroke-width="0.4"/>
+  <text x="382" y="152" font-family="monospace" font-size="4.5" fill="#4a5568" text-anchor="middle">Time: 8:00 PM</text>
+  <!-- Guests field -->
+  <rect x="357" y="157" width="50" height="9" rx="1" fill="#0d0f1c" stroke="#232f3e" stroke-width="0.4"/>
+  <text x="382" y="164" font-family="monospace" font-size="4.5" fill="#cccccc" text-anchor="middle">Guests: 2</text>
+  <!-- CTA -->
+  <rect x="357" y="169" width="50" height="10" rx="2" fill="#e8c36a"/>
+  <text x="382" y="177" font-family="monospace" font-size="5.5" fill="#131921" text-anchor="middle" font-weight="700">Confirm</text>
+
+  <!-- REVIEW CARD -->
+  <rect x="502" y="108" width="64" height="54" rx="3" fill="#131921" stroke="#232f3e" stroke-width="0.5"/>
+  <text x="534" y="120" font-family="monospace" font-size="5.5" fill="#8892aa" text-anchor="middle">Guest Review</text>
+  <line x1="508" y1="125" x2="560" y2="125" stroke="#1e2240" stroke-width="0.5"/>
+  <text x="514" y="135" font-family="monospace" font-size="6" fill="#e8c36a">&#9733;&#9733;&#9733;&#9733;&#9733;</text>
+  <text x="534" y="146" font-family="monospace" font-size="4.5" fill="#cccccc" text-anchor="middle">"Absolutely divine."</text>
+  <text x="534" y="154" font-family="monospace" font-size="4" fill="#8892aa" text-anchor="middle">The ambiance &amp; food</text>
+  <text x="534" y="161" font-family="monospace" font-size="4" fill="#8892aa" text-anchor="middle">were outstanding.</text>
+
+  <!-- Decorative geometry -->
+  <polygon points="372,78 378,84 372,90 366,84" fill="none" stroke="#1e2240" stroke-width="1"/>
+  <polygon points="554,118 560,124 554,130 548,124" fill="none" stroke="#1e2240" stroke-width="1"/>
+  <rect x="540" y="74" width="8" height="8" fill="none" stroke="#e8c36a" stroke-width="0.8" transform="rotate(45 544 78)"/>
+  <rect x="364" y="72" width="6" height="6" fill="none" stroke="#252848" stroke-width="0.8" transform="rotate(45 367 75)"/>
+  <!-- Gold triangle accent top-right -->
+  <polygon points="554,36 563,50 545,50" fill="#e8c36a" opacity="0.85"/>
+
+</g>
+
+<!-- Laptop hinge + base -->
+<rect x="92" y="356" width="496" height="16" rx="3" fill="#131523" stroke="#1a1d2e" stroke-width="0.5"/>
+<rect x="68" y="370" width="544" height="12" rx="6" fill="#0f1120" stroke="#191c2c" stroke-width="0.5"/>
+<rect x="290" y="357" width="100" height="9" rx="3" fill="#0d0f1c" stroke="#191c2c" stroke-width="0.4"/>
+</svg>
