@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Images/portfolio.svg" alt="Portfolio Preview" width="100%" />
+<img src="Images/portfolio-hero.svg" alt="Portfolio Preview" width="100%" />
 
 # 🚀 Abhay Sharma — Developer Portfolio
 
