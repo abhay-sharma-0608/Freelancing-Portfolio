@@ -12,8 +12,8 @@ function AboutCard() {
             from <span className="purple">Gurugram, India</span>.
             <br />
             I’m currently working as a{" "}
-            <span className="purple">Aspiring Software Developer</span>
-            <br />I hold an B.Eng. in{" "}
+            <span className="purple">Software Developer</span>
+            <br />I am currently pursuing B.Eng. in{" "}
             <span className="purple">Computer Science And Engineering</span> from{" "}
             <span className="purple">Chandigarh University</span>.
             <br />
